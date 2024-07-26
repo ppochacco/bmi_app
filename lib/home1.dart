@@ -59,6 +59,7 @@ class Home1 extends StatelessWidget {
       SnackBar(
         content: Row(
           mainAxisAlignment: MainAxisAlignment.center,
+          if()
           children: [
             Text('정상 체중입니다.'),
           ],
